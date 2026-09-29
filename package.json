@@ -1,0 +1,12 @@
+{
+  "name": "company-ai-react-fixture",
+  "private": true,
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "typescript": "^5.9.0"
+  }
+}
